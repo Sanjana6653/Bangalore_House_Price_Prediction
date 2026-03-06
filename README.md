@@ -19,3 +19,7 @@ install libraries/dependencies
 ```
 pip install -r requirements.txt
 ```
+Streamlit run command
+```
+streamlit run filename.py
+```
